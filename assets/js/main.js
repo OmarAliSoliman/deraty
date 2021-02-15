@@ -1,7 +1,7 @@
 $(document).ready(function () {
   "use strict";
 
-  AOS.init();
+  // AOS.init();
 
   // $('.feature-card-slider').slick({
   //   dots: false,
